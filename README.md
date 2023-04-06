@@ -3,7 +3,7 @@
 ### Problem Definition in a statement: 
 *Given clinical parameters about a patient, can we predict whether or not they have heart disease?*
 
-### Information about the Project : 
+## Information about the Project : 
 
 * Data : The original data came from the Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease
 * There is also a version of it available on Kaggle. https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset 
