@@ -1,4 +1,5 @@
 # Heart--Disease Prediction 
+Hi ! I am Atri Chattipadhyay, undergrad at IIT Guwahati.
 This is part of a MLOps project developed using Python, and deployed using Docker, Kubernetes and Jenkins
 ### Problem Definition in a statement: 
 *Given clinical parameters about a patient, can we predict whether or not they have heart disease?*
