@@ -24,4 +24,4 @@ jobs:
       run: docker build . --file Dockerfile --tag atri/heart-disease:$(date +%s)
       
     - name: Docker Push
-      run: docker push ${{ secrets.DOCKERHUB_USERNAME}}/HeartDisease_Predictor
+      run: docker push ${{ secrets.DOCKERHUB_USERNAME}}/heart-disease
