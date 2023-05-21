@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project name="Heart Disease" default="build">
+<project name="Heart--Disease" default="build">
 
   <property name="project.build.sourceEncoding" value="UTF-8" />
 
